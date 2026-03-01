@@ -15,26 +15,30 @@ Just start by inviting your friends
 
 ----------------------------------------------------------------
 ## 🔎 Quick Comparison
-
+  
+  
 ## ✅ Recommended
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
 | [Kloak](https://kloak.app/)✅🚧 | 🔒 Closed (for now) | ☁ Centralized | 🔐 TLS • E2EE (DMs – WIP) | Anonymity and Highest privacy |
 | [Fluxer](https://fluxer.app/)✅🚧 | 🟢 Open (AGPL) | 🏠 Self-hostable | 🔐 TLS | Privacy-focused, no default E2EE |
 | [Stoat](https://stoat.chat/)✅🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS | Community-driven, no default E2EE |
-
+  
+  
 ## ☑️ Other Alternatives
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
 | [Nerimity](https://nerimity.com/)🚧 | 🟢 Open (partial) | ☁ Centralized | 🔐 TLS | Hobby project |
 | [DCTS](https://github.com/hackthedev/dcts-shipping)🚧 | 🟢 Open | 🏠 Self-hostable | 🔐 TLS • E2EE on desktop DMs | Community-driven |
-
+  
+  
 ## 🛑❗ Not Recommended
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
 | [Root](https://www.rootapp.com/)🚧 | 🔒 Closed | ☁ SaaS | 🔐 TLS | No E2EE, Collects user data! |
 | [VoltChat](https://voltagechat.app/)🚧 | 🟢 Open | 🌐 Federated | 🔐 TLS • E2EE | Asks for age verification | 
-
+  
+  
 ## 🚧 In early development
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
@@ -53,7 +57,8 @@ Just start by inviting your friends
 | [ChatBap](https://chatbap.com/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS | Early development | 
 | [Pulse](https://plse.chat/) | 🟢 Open  | 🌐 Federated | 🔐 TLS + E2EE | Early development | 
 | [Blite](https://blite.chat/) | 🟢 Open  | 🏠 Self-hostable  | 🔐 TLS + E2EE | Early development | 
-
+  
+  
 ##  ⚠ Popular, but Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
 |------|--------|---------|------------|------------|
