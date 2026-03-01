@@ -51,7 +51,7 @@ Just start by inviting your friends
 | [Valour](https://valour.gg/) | 🟢 Open | ☁ Centralized | ❓ Unverified | Early development | 
 | [Silenced](https://silenced.app/) | 🔒 Closed  | ☁ Centralized | 🔐 E2EE | Early development | 
 | [ChatBap](https://chatbap.com/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS | Early development | 
-| [Pulse](https://plse.chat/) | 🔒 Closed  | ☁ Centralized | 🔐 TLS + E2EE | Early development | 
+| [Pulse](https://plse.chat/) | 🟢 Open  | 🌐 Federated | 🔐 TLS + E2EE | Early development | 
 
 ##  ⚠ Popular, but Not Recommended for casual discord users
 | App | Source | Hosting | Encryption | Notes |
